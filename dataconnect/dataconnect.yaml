@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "SprintMap-master"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "SprintMap-master-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

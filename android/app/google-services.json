@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150643400277",
+    "project_id": "yks-app-current",
+    "storage_bucket": "yks-app-current.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150643400277:android:14685f58bb5b2c9c793edc",
+        "android_client_info": {
+          "package_name": "com.tuna.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJ222H9YVolUr5dd9xz7ifub5wWvO4aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
